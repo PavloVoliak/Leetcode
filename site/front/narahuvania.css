@@ -1,0 +1,68 @@
+.forms-table_zaborg {
+  width:1000px;
+  background-color: white;
+  margin: auto;
+  height: 100%;
+  padding-bottom:20px;
+  border-radius:15px;
+  margin-top:50px;
+}
+.table-text {
+  font-size:20px;
+  background-color:rgb(65, 202, 192);
+  color:white;
+  text-align: center;
+  border-radius:10px 10px 0px 0px;
+}
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+table  {
+  width:900px;
+  height:100%
+  margin: auto;
+  font-size:20px;
+  margin-top:20px;
+}
+th {
+  font-size:25px;
+}
+.table-second-text {
+  width:900px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:rgb(65, 202, 192);
+}
+.table-first-text h1 {
+  font-size:40px;
+  font-weight:900;
+}
+.table-second-text h1{
+  font-size: 22px;
+}
+.table-first-text {
+  padding-top:10px;
+}
+.table-hr {
+  border-bottom: 1px solid black;
+}
+ button  {
+  padding:3px 60px;
+  border-radius:8px;
+  border:none;
+  background-color: rgb(65, 202, 192);
+  color:white;
+  font-size:18px;
+  font-weight:600;
+}
+.bottom-text-btn {
+  display: flex;
+  justify-content:space-between;
+  width:900px;
+  margin-top:40px;
+}
+.btn-tx {
+  margin-left:50px;
+}
